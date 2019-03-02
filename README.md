@@ -1,4 +1,4 @@
-# The Shooutout
+# The Shootout
 
 This is a small OOP course project made in my 1st year of faculty using C++. It is a console app which consists in a survival game played in rounds, where you can observe a series of players (agents) walking on a map and trying to kill eachother. All you need to do is to give the map's dimensions, the number of participants, and then *Let the games begin!*
 
